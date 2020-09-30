@@ -1,0 +1,4 @@
+﻿  main.cpp
+  MathUtilities.cpp
+  Mini Game.cpp
+LINK : fatal error LNK1181: cannot open input file 'sfml-graphics.lib'
